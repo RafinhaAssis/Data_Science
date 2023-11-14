@@ -1,0 +1,15 @@
+Missing --> Espaços vazios na qual enviazam pesquisas.
+
+Outliers
+  |
+  |--> Dados estão fora dos padrões observados.
+        |--> Problematicos:
+                |--> Não são representativos para a população.
+                |--> Podem distorcer os resultados das analises.
+        |--> 
+  |
+  |--> Metodos para detectar outlier
+        |--> Metodo 1: Score z:
+                |--> 
+        |--> Medtodo 2: Box-Plot:
+                |--> 
