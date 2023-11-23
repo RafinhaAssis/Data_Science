@@ -1,0 +1,4 @@
+Exception
+  when others then
+   DBMS_OUTPUT.PUT_LINR();
+END;
